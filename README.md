@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
+- [Visite o projeto online](https://pedroka97.github.io/Habits/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/JioKsoL4XfSvOJywxhvebT/Habits-(e)-(Community)?node-id=75%3A128&t=d1NxLINgio5S7hRb-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
