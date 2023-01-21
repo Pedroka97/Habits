@@ -8,7 +8,7 @@ form.addEventListener("change", save);
 
 function add()
 {
-  gconst today = new Date().toLocaleDateString('pt-br').slice(0, 5);
+  const today = new Date().toLocaleDateString('pt-br').slice(0, 5);
   // today = "12/01"
   const dayExists = nlwSetup.dayExists(today);
 
